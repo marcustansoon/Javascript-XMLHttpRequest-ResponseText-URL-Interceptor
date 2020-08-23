@@ -1,7 +1,7 @@
 # Javascript-XMLHttpRequest-Interceptor-Response
 
 <br>
-[This is a relative link to a nested file](console.js)
+[This is a relative link to a nested file](src/console.js)
 <br>
 
 Reference Links :-
