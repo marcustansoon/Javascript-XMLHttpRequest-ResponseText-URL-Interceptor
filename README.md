@@ -1,7 +1,7 @@
 # Javascript-XMLHttpRequest-Interceptor-Response
 
 <br>
-[This is a relative link to a nested file](src/console.js)
+- [Current Bill of Materials](./src/console.js#L14) Constantly updated with latest additions
 <br>
 
 Reference Links :-
