@@ -1,7 +1,8 @@
 # Javascript-XMLHttpRequest-Interceptor-Response
 
 <br>
-- [Current Bill of Materials](./src/console.js#L14) Constantly updated with latest additions
+- [Current Bill of Materials](src/console.js#L14) Constantly updated with latest additions
+- [Hardware build concept (draft)](./src)
 <br>
 
 Reference Links :-
